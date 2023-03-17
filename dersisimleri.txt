@@ -1,0 +1,15 @@
+SEN4993 - Yaz Stajı - O kredi
+
+TLL1004 - Türk Dili ve Edebiyatı II - 2 Kredi
+
+SEN3006 - Yazılım Mimarisi - 3 Kredi
+
+SEN2104 - Veritabanı Yönetim Sistemleri - 4 Kredi
+
+SEN2022 - Yazılım Mühendisliği Analiz ve Tasarımı - 3 Kredi
+
+MAT3012 - Nümerik Analiz - 3 Kredi
+
+HST1002 - Atatürk İlkeleri ve İnkılap Tarihi II - 2 Kredi
+
+GEP1005 - Uygarlık Tarihi I - 3 Kredi
