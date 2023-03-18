@@ -4,7 +4,3 @@
 
 # şimdi dosya üzerinde birtakım değişiklikler yapıyorum. Bunu -amend komutu ile commit edeceğim
 # commit mesajını değiştireceğim yeni bir commit olmayacak. 
-
-# ŞİMDİ
-# Buraya bir şeyler yazıp commit ediyorum
-# Daha sonra bu committen pişman olup geri alacağım (revert commitID)
